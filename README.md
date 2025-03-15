@@ -17,7 +17,7 @@
 [GIT](https://git-scm.com) & [GIT LFS](https://git-lfs.com) \
 [Unity Tutorials & Docs](https://learn.unity.com/tutorial/start-learning-unity) \
 [Unity Game Object Life Cycle](https://docs.unity3d.com/6000.0/Documentation/Manual/execution-order.html) \
-[Unity Asset Story - Free Assets](https://assetstore.unity.com/?free=true&orderBy=1) \
+[Unity Asset Store - Free Assets](https://assetstore.unity.com/?free=true&orderBy=1) \
 [IXR Suite Repository](https://github.com/Zanderlabs/IXR-Suite)
 
 ## Processed LSL Streams
